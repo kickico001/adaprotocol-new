@@ -82,7 +82,7 @@ const Home = () => {
           <h1>Decentralised Wallet Applications</h1>
           <h3>
             Following decentralised finance and blockchain applications support
-            Wallets Validation wallets.
+            for cardano wallets.
           </h3>
           {adaPrice && (
             <div className="ada-price-tracker">
